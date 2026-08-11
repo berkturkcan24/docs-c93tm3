@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-i63njs.saturadar88win.sbs/sitemap.xml
